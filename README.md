@@ -24,3 +24,15 @@ This could help non-tech users to create a simple video without much hassle like
 1- The bat files are initialized to be ran for testing, with the test audio and character
 
 2- The character images should be named (frame0,frame1 ... up to 8)
+
+
+# Resources
+1- Rhubarb command-line tool: https://github.com/DanielSWolf/rhubarb-lip-sync
+
+2- FFmpeg: https://ffmpeg.zeranoe.com 
+
+3- OpenCV: https://opencv.org 
+
+# Contact
+
+If you have any feedback, I'd love to hear it from you .. <a href="https://twitter.com/khalidamin51">Let me know on Twitter</a> or send me an email at khalidamin511@gmail.com
