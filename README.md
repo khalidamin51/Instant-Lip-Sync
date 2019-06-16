@@ -1,4 +1,4 @@
-# Instant-Lip-Sync-
+# Instant-Lip-Sync
 A Lip Sync integration with Rhubarb command-line tool, that enables rendering the video without a video editor application
 
 The whole idea is based on simplicity of creating a video, just choose the scene you'd like to create and the audio file and run !
